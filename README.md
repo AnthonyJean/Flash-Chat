@@ -12,3 +12,9 @@ Flash Chat is an internet based messaging app similar to WhatsApp. It use Fireba
 * Grand Central Dispatch to queue asynchronous tasks.
 
 ## Screenshots
+<p align="center">
+  <img width="300" src="https://raw.githubusercontent.com/AnthonyJean/Flash-Chat/master/screenshot1.png">
+  <img width="300" src="https://raw.githubusercontent.com/AnthonyJean/Flash-Chat/master/screenshot2.png">
+  <img width="300" src="https://raw.githubusercontent.com/AnthonyJean/Flash-Chat/master/screenshot3.png">
+  <img width="300" src="https://raw.githubusercontent.com/AnthonyJean/Flash-Chat/master/screenshot4.png">
+</p>
